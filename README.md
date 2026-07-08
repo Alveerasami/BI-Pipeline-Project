@@ -1,5 +1,9 @@
-# BI-Pipeline-Project
-A small, self-contained ETL and BI reporting project built to demonstrate the core skills for a Performance &amp; BI Analyst role: pulling data from a public API and SQL warehouse, cleaning it, running data quality/gap analysis, and producing management-ready reports.
+# Performance & BI Mini-Pipeline: Public Sector Incident Reporting
+
+A small, self-contained ETL and BI reporting project built to demonstrate
+the core skills for a Performance & BI Analyst role: pulling data from a
+public API and SQL warehouse, cleaning it, running data quality/gap
+analysis, and producing management-ready reports.
 
 **Data source:** [data.police.uk](https://data.police.uk/) - the UK Police
 public open data API (free, no auth key required), used here as a
