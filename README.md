@@ -1,7 +1,7 @@
 # Performance & BI Mini-Pipeline: Public Sector Incident Reporting
 
 A small, self-contained ETL and BI reporting project built to demonstrate
-the core skills for a Performance & BI Analyst role: pulling data from a
+ my core skills for a Performance & BI Analyst role: pulling data from a
 public API and SQL warehouse, cleaning it, running data quality/gap
 analysis, and producing management-ready reports.
 
