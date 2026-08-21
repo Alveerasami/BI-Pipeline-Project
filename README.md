@@ -11,7 +11,7 @@ stand-in for a real service's case/incident management system.
 
 ## What this demonstrates
 
-| Job requirement | Where it's shown |
+| Project requirement | Where it's shown |
 |---|---|
 | ETL pipelines pulling data via SQL and APIs to a centralised warehouse | `extract.py`, `transform.py`, `load.py`, `sql/01_schema.sql` |
 | Reports meeting statutory/regulatory and performance monitoring needs | `report.py`, `sql/04_reports.sql` |
