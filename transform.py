@@ -36,9 +36,7 @@ def flatten_records(records: list) -> pd.DataFrame:
 
 def run_data_quality_checks(df: pd.DataFrame) -> dict:
     """
-    Gap analysis / data quality checks - mirrors the 'experience of gap
-    analysis and data quality issues' requirement in the job spec.
-
+    Gap analysis / data quality checks - 
     Returns a summary dict that gets logged and can feed a data quality
     report used to flag issues back to source system owners.
     """
